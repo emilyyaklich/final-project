@@ -6,7 +6,7 @@
 This project will demonstrate a basic understanding of constructing a machine learning model using Python. The project code and analysis is located in the predicting_TM_identity_Yaklich.ipynb file. 
 
 ## Credits
-I would like to thank Dr. Martin Skarzinski for instructing the course and providing helpful feedback on the project. 
+I would like to thank Dr. Martin Skarzynski for instructing the course and providing helpful feedback on the project. 
 
 ## License
 The code in this repository is released under the MIT license.
