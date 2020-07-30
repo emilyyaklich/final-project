@@ -7,4 +7,4 @@ seaborn
 jupyter_contrib_nbextensions
 jupyterlab
 jupyterlab-git
-rise
+
