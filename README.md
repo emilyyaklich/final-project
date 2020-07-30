@@ -9,4 +9,4 @@ This project will demonstrate a basic understanding of constructing a machine le
 I would like to thank Dr. Martin Skarzinski for instructing the course and providing helpful feedback on the project. 
 
 ## License
-The code in this repository is released under the [MIT license](LICENSE-CODE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
+The code in this repository is released under the MIT license.
